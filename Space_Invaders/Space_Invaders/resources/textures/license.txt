@@ -1,0 +1,12 @@
+player_texture and enemy_tier1_texture are from Space Ship Construction Kit made by Skorpio and they are shared under CC-BY-SA 3.0 license
+CC-BY-SA 3.0 license - https://creativecommons.org/licenses/by-sa/3.0/deed.en
+Space Ship Construction Kit - https://opengameart.org/content/space-ship-construction-kit
+
+enemy_tier2_texture and enemy_tier3_texture are based on enemy_tier1_texture made by Skorpio
+they are shared under the same CC-BY-SA 3.0 license
+
+lasers textures are based on textures made by CruzR under CC0
+https://opengameart.org/content/space-starter-kit
+
+fortification texture is based on textures made by Wenrexa under CC0
+https://opengameart.org/content/assets-free-space-modular-buildings-kit
