@@ -6,7 +6,7 @@ Game is written in C++ with use of SFML https://www.sfml-dev.org/index.php libra
 Download release, put Space_Invaders.exe and openal.dll in same directory and click on exe file.
 
 ## Screens
-<img src="https://github.com/GargamelJR1/Space-Invaders-SFML/assets/91876652/a89b29ae-2630-4207-a168-c6f6d182f914" width="45%"></img> <img src="https://github.com/GargamelJR1/Space-Invaders-SFML/assets/91876652/b5049527-a948-462e-9b7a-5b94d018158b" width="45%"></img>
+<img src="https://github.com/GargamelJR1/Space-Invaders-SFML/assets/91876652/32ece5af-fc6a-4c46-ac6d-67ceb5e14c82" width="45%"></img> <img src="https://github.com/GargamelJR1/Space-Invaders-SFML/assets/91876652/3d0bc47e-1ba2-46b0-83c1-4c9a995c42da" width="45%"></img>
 
 ## Compilation
 Open with Visual Studio, but before that, you need to extract SFML archive into Space_Invaders/Space_Invaders/sfml
